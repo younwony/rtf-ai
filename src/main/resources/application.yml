@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    include: API-KEY
+
+chat-gpt:
+  api-key: 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
+  endpoint: https://api.openai.com/v1/chat/completions
+  model: gpt-3.5-turbo
