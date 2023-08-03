@@ -1,6 +1,9 @@
 spring:
   profiles:
     include: API-KEY
+  thymeleaf:
+    cache: false
+    check-template-location: true
 
 chat-gpt:
   api-key:

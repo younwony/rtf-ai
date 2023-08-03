@@ -7,6 +7,7 @@ Rob The Fridge AI
 1. [ ] 냉장고 등록
 2. [ ] 재료 등록
 3. [ ] 레시피 검색
+    - 남은 재료로 레시피 추천
 
 ## 2. 음식 레시피 추천
 1. [ ] 음식 레시피 검색
@@ -16,8 +17,6 @@ Rob The Fridge AI
 # tech
 
 - Spring Boot
-- Spring Data JPA
-- Spring Web
-- Spring Security
-- Open AI
-
+- JPA
+- OpenFeign
+- OpenAI
