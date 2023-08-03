@@ -16,7 +16,14 @@ Rob The Fridge AI
 
 # tech
 
+## Backend
+
 - Spring Boot
 - JPA
 - OpenFeign
 - OpenAI
+
+## Frontend
+
+- Thymeleaf
+- Bootstrap (https://startbootstrap.com/theme/sb-admin-2)
