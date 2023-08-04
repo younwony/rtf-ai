@@ -12,4 +12,9 @@ public class ViewController {
         model.addAttribute("message", "Hello World!");
         return "index";
     }
+
+    @GetMapping("/rta")
+    public String rta(Model model){
+        return "rta/tables";
+    }
 }
